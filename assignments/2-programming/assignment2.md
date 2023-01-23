@@ -9,11 +9,10 @@ For å levere inn skal du åpne en _Pull Request_.
 På toppen skulle du nå se en melding at du er noen commit "ahead av" hovedrepository (og kanskje samtidig noen commit bak).
 Her får du under _Contribute_ en mulighet til å åpne en _Pull Request_:
 
-![Åpne Pull Reuest](../../resources/images/git-pull-request-1.jpg)
+![Åpne Pull Request](../../resources/images/git-pull-request-1.jpg)
 
 I det vindu som åpner seg kan du skriver flere detaljer.
 Husk å skrive inn studentnummeret ditt i kommentarfeltet.
-
 
 ![Legger inn Studentnummer](../../resources/images/git-pull-request-2.jpg)
 
